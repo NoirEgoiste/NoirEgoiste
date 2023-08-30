@@ -40,16 +40,18 @@ I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
   <img src="">
 </div>
 
-<div id="databases" align="left">
-  Databases
+<div id="frontend" align="left">
+  Front-end
+  <img src="">
   <img src="">
   <img src="">
   <img src="">
 </div>
 
-<div id="frontend" align="left">
-  Front-end
-  <img src="">
+<br>
+
+<div id="databases" align="left">
+  Databases
   <img src="">
   <img src="">
   <img src="">
