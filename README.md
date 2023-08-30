@@ -32,4 +32,8 @@ I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 ### :hammer_and_wrench: Languages and Tools :
 
+---
+
+### :fire: My Stats :
+
 :space_invader:	
