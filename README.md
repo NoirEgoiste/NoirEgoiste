@@ -18,15 +18,22 @@
 ---
 
 ### :man_technologist: About Me :
+<div>
 I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-
-<!--- :mailbox:How to reach me: [![Linkedin Badge]-->
+<div id="bio">
+  <div id="bio-ru align="right">
+      - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+      - :seedling: Exploring Technical Content Writing.
+      - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+  </div>
+  
+  <div id="bio-en align="left">
+      - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+      - :seedling: Exploring Technical Content Writing.
+      - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+  
+  </div>
+</div>
 
 ---
 
