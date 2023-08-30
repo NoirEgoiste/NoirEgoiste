@@ -21,18 +21,14 @@
 <div>
 I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 <div id="bio">
-  <div id="bio-ru align="right">
-      - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-      - :seedling: Exploring Technical Content Writing.
-      - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-  </div>
   
   <div id="bio-en align="left">
-      - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-      - :seedling: Exploring Technical Content Writing.
-      - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-  
+      about me
+      <!--https://www.codewars.com/users/Noir_Egoiste
+      https://leetcode.com/NoirEgoiste/
+      https://stepik.org/users/358524611/profile-->
   </div>
+
 </div>
 
 ---
