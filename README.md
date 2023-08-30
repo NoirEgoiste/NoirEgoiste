@@ -85,7 +85,7 @@ I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NoirEgoiste&theme=nightowl)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NoirEgoiste&layout=compact)](https://github.com/NoirEgoiste/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NoirEgoiste&layout=compact&theme=tokyonight)](https://github.com/NoirEgoiste/github-readme-stats)
 
 
 :space_invader:	
