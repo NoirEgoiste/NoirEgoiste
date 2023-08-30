@@ -31,7 +31,7 @@ I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 ---
 
 ### :hammer_and_wrench: Technology stack :
-<div id="backend" align="left">
+<div id="backend" align="center">
   Back-end: <br>
   <img src="https://camo.githubusercontent.com/66827c53581cfee18c55618697d74a3c6167932d3c1980fba2019ef7a3e553b0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d507974686f6e">
   <img src="https://camo.githubusercontent.com/eb8d7eef4c7ab128ee2e8232f3d22cacf840b84e29023a33523322669db65401/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d446a616e676f2d3061616434383f7374796c653d666c61742d737175617265266c6f676f3d446a616e676f">
@@ -39,7 +39,7 @@ I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 <br>
 
-<div id="frontend" align="left">
+<div id="frontend" align="center">
   Front-end: <br>
   <img src="https://camo.githubusercontent.com/a1309b252e82434062012a8073fa9fc1416a96289b7ca11555577b9fbe1cf03e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d2532334637444631433f7374796c653d666c61742d737175617265266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d303030303030266c6162656c436f6c6f723d25323346374446314326636f6c6f723d253233464643453541">
   <img src="https://camo.githubusercontent.com/19d98ab99fe0a1a5c00ef27920be3ada8548f2476877db0598960ac2a5f8788d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d435353332d2532333135373242363f7374796c653d666c61742d737175617265266c6f676f3d63737333">
@@ -48,7 +48,7 @@ I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 <br>
 
-<div id="databases" align="left">
+<div id="databases" align="center">
   Databases: <br>
   <img src="https://camo.githubusercontent.com/1721875facfd6e2c719648650f53fe7eb33ec008e9032d129a9b0bb69f5e8136/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d506f737467726573716c2d2532333263336535303f7374796c653d666c61742d737175617265266c6f676f3d506f737467726573716c">
 
@@ -56,7 +56,7 @@ I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 <br>
 
-<div id="tools" align="left">
+<div id="tools" align="center">
   Tools: <br>
   <img src="https://camo.githubusercontent.com/4d015bf250194995d899a5d2b90babf1afc4458c1589b93e58fdfa4119749a49/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d446f636b65722d3436613266313f7374796c653d666c61742d737175617265266c6f676f3d646f636b6572266c6f676f436f6c6f723d7768697465">
   <img src="https://camo.githubusercontent.com/96ad28f6e9ecf86dac5b7921a10da4b513dcbb1b052053d99910f7a7b9a98b25/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d496e74656c6c694a253230494445412d6666636535613f7374796c653d666c61742d737175617265266c6f676f3d6a6574627261696e73">
@@ -72,7 +72,7 @@ I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 <br>
 
-<div id="learning" align="left">
+<div id="learning" align="center">
   Learning <br>
   <img src="https://camo.githubusercontent.com/d543fff80e3669fbdbc647ce25f20917476273ff755a4b0f4f2113a677739dfe/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d53716c416c6368656d792d4643413132313f7374796c653d666c61742d737175617265266c6f676f3d53716c416c6368656d79">
   <img src="https://camo.githubusercontent.com/e81292e1ecd7af339d5f3e681ce57064d78cb3e5ce6ae78251644c02c525e281/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d466173744150492d2532333030433742373f7374796c653d666c61742d737175617265266c6f676f3d46617374415049">
@@ -84,7 +84,7 @@ I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NoirEgoiste&theme=nightowl)](https://git.io/streak-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NoirEgoiste)](https://github.com/NoirEgoiste/github-readme-stats)
 
 
 :space_invader:	
