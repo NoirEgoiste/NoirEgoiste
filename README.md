@@ -23,12 +23,15 @@ I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 <div id="bio">
   
   <div id="bio-en align="left">
+    <ul>
       About me:
-             - I am a fifth-year student at Belgorod State University with a degree in Information Systems and Technologies.
-             - I constantly develop and improve my coding skills with Python Django FastApi.
-             - I participate in various open source projects at the moment, I spend all my free time just on one of these.
+             <li>I am a fifth-year student at Belgorod State University with a degree in Information Systems and Technologies.</li>
+             <li>I constantly develop and improve my coding skills with Python Django FastApi.</li>
+             <li>I participate in various open source projects at the moment, I spend all my free time just on one of these.</li>
+    </ul>
       Sometimes I am here:
               https://stepik.org/users/358524611/profile
+   
   </div>
 <!--              ![[Codewars](https://github.r2v.ch/codewars?user=Noir_Egoiste&stroke=COLOR)]
               [![LeetCode user NoirEgoiste](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2FNoirEgoiste&logo=leetcode&logoColor=yellow)](https://leetcode.com/NoirEgoiste/)-->
