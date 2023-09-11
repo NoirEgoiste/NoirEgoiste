@@ -24,9 +24,13 @@ I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
   
   <div id="bio-en align="left">
     <ul>
-             <li>I am a fifth-year student at Belgorod State University with a degree in Information Systems and Technologies.</li>
-             <li>I constantly develop and improve my coding skills with Python Django FastApi.</li>
-             <li>I participate in various open source projects at the moment, I spend all my free time just on one of these.</li>
+          <li>I have been developing in Python for 3 years and am now actively participating in open source projects.</li>
+          <li>I study at BSTU at the IT department.</li>
+          <li>I will finish in 2024. </li>
+          <li>Worked with Python, C++, C#. </li>
+          <li>Developed a chat bot in Python with api from openai with integration into telegram, various blog sites. </li>
+          <li>I am actively studying. Django, SCLAlchemy, fastapi. Worked with docker, postgres.</li>
+          <li>In my free time I solve problems using codevars leetcode and stepik. </li>
     </ul>
       Sometimes I am here:
               https://stepik.org/users/358524611/profile
