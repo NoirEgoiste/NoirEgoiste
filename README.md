@@ -24,7 +24,6 @@ I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
   
   <div id="bio-en align="left">
     <ul>
-      About me:
              <li>I am a fifth-year student at Belgorod State University with a degree in Information Systems and Technologies.</li>
              <li>I constantly develop and improve my coding skills with Python Django FastApi.</li>
              <li>I participate in various open source projects at the moment, I spend all my free time just on one of these.</li>
