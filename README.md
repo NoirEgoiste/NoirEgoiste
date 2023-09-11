@@ -23,7 +23,7 @@ I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 <div id="bio">
   
   <div id="bio-en align="left">
-    <ul>
+    <ul allign="left">
           <li>I have been developing in Python for 3 years and am now actively participating in open source projects.</li>
           <li>I study at BSTU at the IT department.</li>
           <li>I will finish in 2024. </li>
