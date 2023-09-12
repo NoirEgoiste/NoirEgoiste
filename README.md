@@ -23,8 +23,7 @@ I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 <div id="bio">
   <ul>
         <li>I have been developing in Python for 3 years and am now actively participating in open source projects.</li>
-        <li>I study at BSTU at the IT department.</li>
-        <li>I will finish in 2024. </li>
+        <li>I study at BSTU at the IT department. I will finish in 2024.</li>
         <li>Worked with Python, C++, C#. </li>
         <li>Developed a chat bot in Python with api from openai with integration into telegram, various blog sites. </li>
         <li>I am actively studying. Django, SCLAlchemy, fastapi. Worked with docker, postgres.</li>
