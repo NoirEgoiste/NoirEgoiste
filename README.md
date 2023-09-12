@@ -22,8 +22,8 @@
 I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 <div id="bio">
   
-  <div id="bio-en align="left">
-    <ul allign="left">
+  <div id="bio-en allign="left">
+    <ul>
           <li>I have been developing in Python for 3 years and am now actively participating in open source projects.</li>
           <li>I study at BSTU at the IT department.</li>
           <li>I will finish in 2024. </li>
