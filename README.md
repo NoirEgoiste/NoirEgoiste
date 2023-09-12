@@ -36,7 +36,7 @@ I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 
 <div id="backend" align="center">
-### :hammer_and_wrench: Technology stack :
+<h3>hammer_and_wrench: Technology stack</h3>
   Back-end: <br>
   <img src="https://camo.githubusercontent.com/66827c53581cfee18c55618697d74a3c6167932d3c1980fba2019ef7a3e553b0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d507974686f6e">
   <img src="https://camo.githubusercontent.com/eb8d7eef4c7ab128ee2e8232f3d22cacf840b84e29023a33523322669db65401/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d446a616e676f2d3061616434383f7374796c653d666c61742d737175617265266c6f676f3d446a616e676f">
