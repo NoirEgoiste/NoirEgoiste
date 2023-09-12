@@ -21,23 +21,15 @@
 <div>
 I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 <div id="bio">
-  
-  <div id="bio-en allign="left">
-    <ul>
-          <li>I have been developing in Python for 3 years and am now actively participating in open source projects.</li>
-          <li>I study at BSTU at the IT department.</li>
-          <li>I will finish in 2024. </li>
-          <li>Worked with Python, C++, C#. </li>
-          <li>Developed a chat bot in Python with api from openai with integration into telegram, various blog sites. </li>
-          <li>I am actively studying. Django, SCLAlchemy, fastapi. Worked with docker, postgres.</li>
-          <li>In my free time I solve problems using codevars leetcode and stepik. </li>
-    </ul>
-      Sometimes I am here:
-              https://stepik.org/users/358524611/profile
-   
-  </div>
-<!--              ![[Codewars](https://github.r2v.ch/codewars?user=Noir_Egoiste&stroke=COLOR)]
-              [![LeetCode user NoirEgoiste](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2FNoirEgoiste&logo=leetcode&logoColor=yellow)](https://leetcode.com/NoirEgoiste/)-->
+  <ul>
+        <li>I have been developing in Python for 3 years and am now actively participating in open source projects.</li>
+        <li>I study at BSTU at the IT department.</li>
+        <li>I will finish in 2024. </li>
+        <li>Worked with Python, C++, C#. </li>
+        <li>Developed a chat bot in Python with api from openai with integration into telegram, various blog sites. </li>
+        <li>I am actively studying. Django, SCLAlchemy, fastapi. Worked with docker, postgres.</li>
+        <li>In my free time I solve problems using codevars leetcode and stepik. </li>
+  </ul>
 </div>
 
 ---
