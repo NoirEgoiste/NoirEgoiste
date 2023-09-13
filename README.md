@@ -84,7 +84,7 @@ I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 
 ---
-
+</div align="center">
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NoirEgoiste&theme=nightowl)](https://git.io/streak-stats)
@@ -93,3 +93,4 @@ I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 
 :space_invader:	
+</div>
