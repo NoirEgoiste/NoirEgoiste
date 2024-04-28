@@ -39,7 +39,7 @@
 
 ![PostgreSQL](https://camo.githubusercontent.com/7bf012dbc1e9ea0ac6740e661e9a0c8ae9e49314f21eb4ab92a9f015c27d19df/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d506f737467726573716c2d2532333263336535303f7374796c653d666c61742d737175617265266c6f676f3d506f737467726573716c)
 ![Redis](https://img.shields.io/badge/-Redis-FCA121?style=flat-square&logo=Redis)
-![MongoDB](https://img.shields.io/badge/MongoDB--Noir?style=flat-square&logo=mongodb)
+![MongoDB](https://img.shields.io/badge/MongoDB-white?style=flat-square&logo=mongodb&logoColor=%234DB33D&color=%23E8E7D5)
 
 **Front-end**
 
