@@ -18,7 +18,7 @@
 
 <br>
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/3NE7JhJgZBHlMfmNEa/giphy.gif" width="300" height="400" raw="true"/>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/3NE7JhJgZBHlMfmNEa/giphy.gif" width="500" height="400" raw="true"/>
 
 :hammer_and_wrench: 
 ### Technology stack:
