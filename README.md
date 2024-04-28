@@ -31,6 +31,8 @@
 ![Django](https://img.shields.io/badge/-Django-0aad48?style=flat-square&logo=Django)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-%2300C7B7?style=flat-square&logo=FastAPI)
 ![SqlAlchemy](https://img.shields.io/badge/-SqlAlchemy-FCA121?style=flat-square&logo=SqlAlchemy)
+![Pydantic](https://img.shields.io/badge/Pydantic-white?style=flat-square&logo=pydantic&logoColor=red&color=%23540e38&link=https%3A%2F%2Fdocs.pydantic.dev%2Flatest%2F)
+
 ![Aiogram](#)
 
 **Databases**
