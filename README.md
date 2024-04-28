@@ -12,7 +12,7 @@
 
 
 ## About Me :man_technologist:
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60">
 * I have been developing in Python for 3 years and am now actively participating in open source projects.
 * I study at BSTU at the IT department. I will finish in 2025.
 * Worked with Python, C++, C#.
