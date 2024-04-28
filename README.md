@@ -5,26 +5,16 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 <br>
-
-
-
-### Telegram
-[Me](https://t.me/Noir_Egoiste) 
+[My Telegram](https://t.me/Noir_Egoiste) 
 
 ### About Me :man_technologist:
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-  <ul>
-        <li>I have been developing in Python for 4 years and am now actively participating in open source projects.</li>
-        <li>I study at BSTU at the IT department. I will finish in 2024.</li>
-        <li>Worked with Python, C++, C#. </li>
-        <li>Developed a chat bot in Python with api from openai with integration into telegram, various blog sites. </li>
-        <li>I am actively studying. Django, SCLAlchemy, FastApi. Worked with docker, postgres, mongodb.</li>
-        <li>In my free time I solve problems using codevars leetcode and stepik. </li>
-  </ul>
-</div>
-
----
-
+*I have been developing in Python for 4 years and am now actively participating in open source projects.
+*I study at BSTU at the IT department. I will finish in 2024.
+*Worked with Python, C++, C#. </li>
+*Developed a chat bot in Python with api from openai with integration into telegram, various blog sites.
+*I am actively studying. Django, SCLAlchemy, FastApi. Worked with docker, postgres, mongodb.
+*In my free time I solve problems using codevars leetcode and stepik.
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/3NE7JhJgZBHlMfmNEa/giphy.gif" width="300" height="200" raw="true"/>
 
