@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 <br>
-[My Telegram](https://t.me/Noir_Egoiste) 
+![My Telegram](https://img.shields.io/badge/Telegram-Noir_Egoiste?style=for-the-badge&logo=telegram&logoColor=blue&labelColor=white&color=%232AABEE)
 
 ## About Me :man_technologist:
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
