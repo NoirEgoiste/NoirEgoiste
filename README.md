@@ -6,7 +6,7 @@
 </a>
 <br>
 <a href="https://t.me/Noir_Egoiste">
-    <img src="[https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/Telegram-Noir_Egoiste?style=for-the-badge&logo=telegram&logoColor=blue&labelColor=white&color=%232AABEE)" alt="Telegram Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/Telegram-Noir_Egoiste?style=for-the-badge&logo=telegram&logoColor=blue&labelColor=white&color=%232AABEE" alt="Telegram Badge"/>
 </a>
 
 ## About Me :man_technologist:
