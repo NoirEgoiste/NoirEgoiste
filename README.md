@@ -61,7 +61,6 @@
 
 ## Stats
 [![Noir_Egoiste GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NoirEgoiste&theme=nightowl)](https://git.io/streak-stats)
-
 [![Noir_Egoiste Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NoirEgoiste&layout=compact&theme=tokyonight)](https://github.com/NoirEgoiste/github-readme-stats)
 <br>
 :space_invader:	
