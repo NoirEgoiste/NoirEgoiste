@@ -12,17 +12,13 @@
 
 
 ## About Me :man_technologist:
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60">
+
 * I have been developing in Python for 3 years and am now actively participating in open source projects.
 * I study at BSTU at the IT department. I will finish in 2025.
 * Worked with Python, C++, C#.
 * Developed a chat bot in Python with api from openai with integration into telegram, various blog sites.
 * I am actively studying. Django, SCLAlchemy, FastApi. Worked with docker, postgres, mongodb.
 * In my free time I solve problems using codevars leetcode and stepik.
-
-<br>
-
-
 
 ## Technology stack
 
@@ -67,4 +63,5 @@
 [![Noir_Egoiste GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NoirEgoiste&theme=nightowl)](https://git.io/streak-stats)
 [![Noir_Egoiste Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NoirEgoiste&layout=compact&theme=tokyonight)](https://github.com/NoirEgoiste/github-readme-stats)
 <br>
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60">
 :space_invader:	
