@@ -11,7 +11,7 @@
 <img src="https://komarev.com/ghpvc/?username=NoirEgoiste&style=flat-square&color=blue" alt=""/>
 
 <h1>
-  hey there
+  ## Hi there 👋
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" align="center" width="30px"/>
 </h1>
 
@@ -26,7 +26,7 @@ I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
         <li>I study at BSTU at the IT department. I will finish in 2024.</li>
         <li>Worked with Python, C++, C#. </li>
         <li>Developed a chat bot in Python with api from openai with integration into telegram, various blog sites. </li>
-        <li>I am actively studying. Django, SCLAlchemy, fastapi. Worked with docker, postgres.</li>
+        <li>I am actively studying. Django, SCLAlchemy, FastApi. Worked with docker, postgres, mongodb.</li>
         <li>In my free time I solve problems using codevars leetcode and stepik. </li>
   </ul>
 </div>
