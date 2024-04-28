@@ -20,8 +20,7 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/3NE7JhJgZBHlMfmNEa/giphy.gif" width="500" height="400" raw="true"/>
 
-:hammer_and_wrench: 
-### Technology stack:
+## Technology stack
 **Back-end**
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
