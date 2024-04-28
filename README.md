@@ -5,7 +5,9 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 <br>
-![My Telegram](https://img.shields.io/badge/Telegram-Noir_Egoiste?style=for-the-badge&logo=telegram&logoColor=blue&labelColor=white&color=%232AABEE)
+<a href="t.me/Noir_Egoiste">
+    <img src="[https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/Telegram-Noir_Egoiste?style=for-the-badge&logo=telegram&logoColor=blue&labelColor=white&color=%232AABEE)" alt="Telegram Badge"/>
+</a>
 
 ## About Me :man_technologist:
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
