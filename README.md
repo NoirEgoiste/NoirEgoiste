@@ -52,4 +52,6 @@
 ![C++](https://img.shields.io/badge/C%2B%2B-white?style=flat-square&logo=C%2B%2B&logoColor=blue)
 
 ## Stats
-[![Noir_Egoiste GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NoirEgoiste&theme=nightowl)](https://git.io/streak-stats)   [![Noir_Egoiste Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NoirEgoiste&layout=compact&theme=tokyonight)](https://github.com/NoirEgoiste/github-readme-stats)
+
+![Noir_Egoiste Github stats](https://github-readme-stats.vercel.app/api?username=NoirEgoiste&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+[![Noir_Egoiste Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NoirEgoiste&layout=compact&count_private=true&theme=tokyonight)
