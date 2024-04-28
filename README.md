@@ -49,6 +49,7 @@
 **Learning**
 
 ![С#](https://img.shields.io/badge/-%D0%A1Sharp-1d72b1?style=flat-square&logo=csharp)
+![C++](https://img.shields.io/badge/C%2B%2B-white?style=flat-square&logo=C%2B%2B&logoColor=blue)
 
 ## Stats
 [![Noir_Egoiste GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NoirEgoiste&theme=nightowl)](https://git.io/streak-stats)
