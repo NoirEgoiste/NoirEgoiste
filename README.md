@@ -3,12 +3,13 @@
 
 **Contact me**
 
-<a href="https://www.linkedin.com/in/dmitrey-kurchin-625782244/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</a>
  <a href="https://t.me/Noir_Egoiste">
     <img src="https://img.shields.io/badge/Telegram-Noir_Egoiste?style=for-the-badge&logo=telegram&logoColor=blue&labelColor=white&color=%232AABEE" alt="Telegram Badge"/>
 </a>
+<a href="https://www.linkedin.com/in/dmitrey-kurchin-625782244/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+
 
 ## About Me :man_technologist:
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
