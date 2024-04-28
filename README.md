@@ -15,10 +15,13 @@
 ## About Me :man_technologist:
 
 * I have been developing in Python for 3 years and am now actively participating in open source projects.
-* I study at BSTU at the IT department. I will finish in 2025.
-* Worked with Python, C++, C#.
-* Developed a chat bot in Python with api from openai with integration into telegram, various blog sites.
-* I am actively studying. Django, SCLAlchemy, FastApi. Worked with docker, postgres, mongodb.
+* Developed web applications for managing customer orders.
+* Developed monolithic web applications using Django, PostgreSQL.
+* Implemented a system for automatically sending notifications to customers about the status of orders via STMP
+* Implemented an authorization and authentication mechanism based on Jwt.
+* Used WSL2 to deploy projects.
+* Wrote scripts for new functionality, supported legacy code, and carried out refactorings.
+* I have experience with Linux administration.
 * In my free time I solve problems using codevars leetcode and stepik.
 
 ## Technology stack
@@ -32,8 +35,6 @@
 ![FastAPI](https://img.shields.io/badge/-FastAPI-%2300C7B7?style=flat-square&logo=FastAPI)
 ![SqlAlchemy](https://img.shields.io/badge/-SqlAlchemy-FCA121?style=flat-square&logo=SqlAlchemy)
 ![Pydantic](https://img.shields.io/badge/Pydantic-white?style=flat-square&logo=pydantic&logoColor=red&color=%23540e38&link=https%3A%2F%2Fdocs.pydantic.dev%2Flatest%2F)
-
-![Aiogram](#)
 
 **Databases**
 
