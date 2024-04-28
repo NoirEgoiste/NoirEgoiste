@@ -11,7 +11,7 @@
 <img src="https://komarev.com/ghpvc/?username=NoirEgoiste&style=flat-square&color=blue" alt=""/>
 
 <h1>
-  ## Hi there 👋 I'm a Python Developer
+  ## Hi there I'm a Python Developer
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" align="center" width="30px"/>
 </h1>
 
