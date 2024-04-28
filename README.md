@@ -11,19 +11,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 
-
-## About Me :man_technologist:
-
-* I have been developing in Python for 3 years and am now actively participating in open source projects.
-* Developed web applications for managing customer orders.
-* Developed monolithic web applications using Django, PostgreSQL.
-* Implemented a system for automatically sending notifications to customers about the status of orders via STMP
-* Implemented an authorization and authentication mechanism based on Jwt.
-* Used WSL2 to deploy projects.
-* Wrote scripts for new functionality, supported legacy code, and carried out refactorings.
-* I have experience with Linux administration.
-* In my free time I solve problems using codevars leetcode and stepik.
-
 ## Technology stack
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/3NE7JhJgZBHlMfmNEa/giphy.gif" width="500" height="400" raw="true"/>
