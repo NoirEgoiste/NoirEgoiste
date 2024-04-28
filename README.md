@@ -54,4 +54,4 @@
 ## Stats
 
 ![Noir_Egoiste Github stats](https://github-readme-stats.vercel.app/api?username=NoirEgoiste&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
-[![Noir_Egoiste Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NoirEgoiste&layout=compact&count_private=true&theme=tokyonight)
+![Noir_Egoiste Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NoirEgoiste&layout=compact&count_private=true&theme=tokyonight)
