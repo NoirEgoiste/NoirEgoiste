@@ -16,14 +16,16 @@
   I'm a Python Developer
 </h1>
 
+### Telegram
+[Me](https://t.me/Noir_Egoiste)</br> https://patrolavia.github.io/telegram-badge/chat.png
 ---
 
 ### :man_technologist: About Me :
 <div align="left">
-I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 <div id="bio">
   <ul>
-        <li>I have been developing in Python for 3 years and am now actively participating in open source projects.</li>
+        <li>I have been developing in Python for 4 years and am now actively participating in open source projects.</li>
         <li>I study at BSTU at the IT department. I will finish in 2024.</li>
         <li>Worked with Python, C++, C#. </li>
         <li>Developed a chat bot in Python with api from openai with integration into telegram, various blog sites. </li>
@@ -84,14 +86,8 @@ I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 </div>
 
 
----
-</div align="center">
-<h3>:fire: My Stats :</h3>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NoirEgoiste&theme=nightowl)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NoirEgoiste&layout=compact&theme=tokyonight)](https://github.com/NoirEgoiste/github-readme-stats)
-
-
+## Stats
+[![Noir_Egoiste GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NoirEgoiste&theme=nightowl)](https://git.io/streak-stats)
+[![Noir_Egoiste Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NoirEgoiste&layout=compact&theme=tokyonight)](https://github.com/NoirEgoiste/github-readme-stats)
 :space_invader:	
-</div>
