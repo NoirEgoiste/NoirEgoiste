@@ -9,10 +9,9 @@
 
 
 ### Telegram
-[Me](https://t.me/Noir_Egoiste)</br> https://patrolavia.github.io/telegram-badge/chat.png
----
+[Me](https://t.me/Noir_Egoiste) 
 
-### About Me :man_technologist: <br>
+### About Me :man_technologist:
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
   <ul>
         <li>I have been developing in Python for 4 years and am now actively participating in open source projects.</li>
