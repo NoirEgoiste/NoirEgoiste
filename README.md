@@ -1,12 +1,6 @@
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/3NE7JhJgZBHlMfmNEa/giphy.gif" width="300" height="200"/>
-</div>
-
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/dmitrey-kurchin-625782244/">
+<a href="https://www.linkedin.com/in/dmitrey-kurchin-625782244/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+</a>
 <br>
 <img src="https://komarev.com/ghpvc/?username=NoirEgoiste&style=flat-square&color=blue" alt=""/>
 
@@ -20,10 +14,8 @@
 [Me](https://t.me/Noir_Egoiste)</br> https://patrolavia.github.io/telegram-badge/chat.png
 ---
 
-### :man_technologist: About Me :
-<div align="left">
+### About Me :man_technologist: <br>
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-<div id="bio">
   <ul>
         <li>I have been developing in Python for 4 years and am now actively participating in open source projects.</li>
         <li>I study at BSTU at the IT department. I will finish in 2024.</li>
@@ -37,13 +29,15 @@
 ---
 
 
-<div id="backend" align="center">
-<h3> :hammer_and_wrench: Technology stack:</h3>
-  Back-end: <br>
-  <img src="https://camo.githubusercontent.com/66827c53581cfee18c55618697d74a3c6167932d3c1980fba2019ef7a3e553b0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d507974686f6e">
-  <img src="https://camo.githubusercontent.com/eb8d7eef4c7ab128ee2e8232f3d22cacf840b84e29023a33523322669db65401/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d446a616e676f2d3061616434383f7374796c653d666c61742d737175617265266c6f676f3d446a616e676f">
-</div>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/3NE7JhJgZBHlMfmNEa/giphy.gif" width="300" height="200" raw="true"/>
 
+:hammer_and_wrench: Technology stack:
+**Back-end**
+![Python]((https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Django](https://img.shields.io/badge/-Django-0aad48?style=flat-square&logo=Django)
+![FastAPI](https://img.shields.io/badge/-FastAPI-%2300C7B7?style=flat-square&logo=FastAPI)
+![SqlAlchemy](https://img.shields.io/badge/-SqlAlchemy-FCA121?style=flat-square&logo=SqlAlchemy)
+![Aiogram](#)
 <br>
 
 <div id="frontend" align="center">
@@ -75,12 +69,10 @@
   <img src="https://camo.githubusercontent.com/85dc47a56a4e73ae7b6e64b3b4416785497e74219ae179ae8faaaca10d5a78d9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3138313731373f7374796c653d666c61742d737175617265266c6f676f3d676974687562">
   <img src="https://camo.githubusercontent.com/35b0a4cb52ffc87fc7c464f9f2527dec988b663d0ae86bf8d542ae5649bd2c9e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744c61622d4643413132313f7374796c653d666c61742d737175617265266c6f676f3d6769746c6162">
 
-</div>
-
 <br>
 
-<div id="learning" align="center">
-  Learning <br>
+
+**Learning** <br>
   <img src="https://camo.githubusercontent.com/d543fff80e3669fbdbc647ce25f20917476273ff755a4b0f4f2113a677739dfe/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d53716c416c6368656d792d4643413132313f7374796c653d666c61742d737175617265266c6f676f3d53716c416c6368656d79">
   <img src="https://camo.githubusercontent.com/e81292e1ecd7af339d5f3e681ce57064d78cb3e5ce6ae78251644c02c525e281/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d466173744150492d2532333030433742373f7374796c653d666c61742d737175617265266c6f676f3d46617374415049">
 </div>
@@ -90,4 +82,5 @@
 ## Stats
 [![Noir_Egoiste GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NoirEgoiste&theme=nightowl)](https://git.io/streak-stats)
 [![Noir_Egoiste Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NoirEgoiste&layout=compact&theme=tokyonight)](https://github.com/NoirEgoiste/github-readme-stats)
+<br>
 :space_invader:	
