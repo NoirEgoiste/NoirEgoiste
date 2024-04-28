@@ -9,12 +9,14 @@
 
 ### About Me :man_technologist:
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-*I have been developing in Python for 4 years and am now actively participating in open source projects.
-*I study at BSTU at the IT department. I will finish in 2024.
-*Worked with Python, C++, C#. </li>
-*Developed a chat bot in Python with api from openai with integration into telegram, various blog sites.
-*I am actively studying. Django, SCLAlchemy, FastApi. Worked with docker, postgres, mongodb.
-*In my free time I solve problems using codevars leetcode and stepik.
+* I have been developing in Python for 4 years and am now actively participating in open source projects.
+* I study at BSTU at the IT department. I will finish in 2024.
+* Worked with Python, C++, C#. </li>
+* Developed a chat bot in Python with api from openai with integration into telegram, various blog sites.
+* I am actively studying. Django, SCLAlchemy, FastApi. Worked with docker, postgres, mongodb.
+* In my free time I solve problems using codevars leetcode and stepik.
+
+<br>
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/3NE7JhJgZBHlMfmNEa/giphy.gif" width="300" height="200" raw="true"/>
 
