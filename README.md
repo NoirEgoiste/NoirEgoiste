@@ -38,7 +38,8 @@
 **Tools**
 
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-ffce5a?style=flat-square&logo=jetbrains)
+![Pycharm](https://img.shields.io/badge/Pycharm-Noir?style=flat-square&logo=pycharm&logoColor=%23000000&color=%23FCF84A)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-Noir?style=flat-square&logo=Visual%20Studio%20Code&color=%230078d7)
 ![Postman](https://img.shields.io/badge/Postman-FCA121?style=flat-square&logo=postman)
 
 ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
