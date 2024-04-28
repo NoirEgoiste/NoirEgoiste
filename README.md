@@ -7,7 +7,7 @@
 <br>
 [My Telegram](https://t.me/Noir_Egoiste) 
 
-### About Me :man_technologist::
+## About Me :man_technologist:
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 * I have been developing in Python for 3 years and am now actively participating in open source projects.
 * I study at BSTU at the IT department. I will finish in 2025.
