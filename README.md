@@ -9,9 +9,9 @@
 
 ### About Me :man_technologist::
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-* I have been developing in Python for 4 years and am now actively participating in open source projects.
-* I study at BSTU at the IT department. I will finish in 2024.
-* Worked with Python, C++, C#. </li>
+* I have been developing in Python for 3 years and am now actively participating in open source projects.
+* I study at BSTU at the IT department. I will finish in 2025.
+* Worked with Python, C++, C#.
 * Developed a chat bot in Python with api from openai with integration into telegram, various blog sites.
 * I am actively studying. Django, SCLAlchemy, FastApi. Worked with docker, postgres, mongodb.
 * In my free time I solve problems using codevars leetcode and stepik.
@@ -30,38 +30,29 @@
 ![SqlAlchemy](https://img.shields.io/badge/-SqlAlchemy-FCA121?style=flat-square&logo=SqlAlchemy)
 ![Aiogram](#)
 
-**Front-end**
-
-  <img src="https://camo.githubusercontent.com/a1309b252e82434062012a8073fa9fc1416a96289b7ca11555577b9fbe1cf03e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d2532334637444631433f7374796c653d666c61742d737175617265266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d303030303030266c6162656c436f6c6f723d25323346374446314326636f6c6f723d253233464643453541">
-  <img src="https://camo.githubusercontent.com/19d98ab99fe0a1a5c00ef27920be3ada8548f2476877db0598960ac2a5f8788d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d435353332d2532333135373242363f7374796c653d666c61742d737175617265266c6f676f3d63737333">
-  <img src="https://camo.githubusercontent.com/9a7c8c4ee62739436a191706be9f786a813dc377ce778522da198cb94874dc22/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d2532334534344432373f7374796c653d666c61742d737175617265266c6f676f3d68746d6c35266c6f676f436f6c6f723d666666666666">
-</div>
-
 **Databases**
 
-[PostgreSQL](https://camo.githubusercontent.com/7bf012dbc1e9ea0ac6740e661e9a0c8ae9e49314f21eb4ab92a9f015c27d19df/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d506f737467726573716c2d2532333263336535303f7374796c653d666c61742d737175617265266c6f676f3d506f737467726573716c)
+![PostgreSQL](https://camo.githubusercontent.com/7bf012dbc1e9ea0ac6740e661e9a0c8ae9e49314f21eb4ab92a9f015c27d19df/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d506f737467726573716c2d2532333263336535303f7374796c653d666c61742d737175617265266c6f676f3d506f737467726573716c)
+![Redis](https://img.shields.io/badge/-Redis-FCA121?style=flat-square&logo=Redis)
+![MongoDB](#)
 
-<div id="tools" align="center">
-  Tools: <br>
-  <img src="https://camo.githubusercontent.com/4d015bf250194995d899a5d2b90babf1afc4458c1589b93e58fdfa4119749a49/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d446f636b65722d3436613266313f7374796c653d666c61742d737175617265266c6f676f3d646f636b6572266c6f676f436f6c6f723d7768697465">
-  <img src="https://camo.githubusercontent.com/96ad28f6e9ecf86dac5b7921a10da4b513dcbb1b052053d99910f7a7b9a98b25/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d496e74656c6c694a253230494445412d6666636535613f7374796c653d666c61742d737175617265266c6f676f3d6a6574627261696e73">
-  
-  <br>
-  
-  <img src="https://camo.githubusercontent.com/566080f1f10a299450280c8b9430bf6c24ce39b71098ccee2ffed461c1b151d3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e75782d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6c696e7578">
-  <img src="https://camo.githubusercontent.com/edd3031a0956c904634f9a394267a6ba61e9a0bb95c9512a1fbc0725b4014d03/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d676974">
-  <img src="https://camo.githubusercontent.com/85dc47a56a4e73ae7b6e64b3b4416785497e74219ae179ae8faaaca10d5a78d9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3138313731373f7374796c653d666c61742d737175617265266c6f676f3d676974687562">
-  <img src="https://camo.githubusercontent.com/35b0a4cb52ffc87fc7c464f9f2527dec988b663d0ae86bf8d542ae5649bd2c9e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744c61622d4643413132313f7374796c653d666c61742d737175617265266c6f676f3d6769746c6162">
+**Front-end**
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 
-<br>
+**Tools**
+![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-ffce5a?style=flat-square&logo=jetbrains)
+![Postman](https://img.shields.io/badge/Postman-FCA121?style=flat-square&logo=postman)
 
+![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
-**Learning** <br>
-  <img src="https://camo.githubusercontent.com/d543fff80e3669fbdbc647ce25f20917476273ff755a4b0f4f2113a677739dfe/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d53716c416c6368656d792d4643413132313f7374796c653d666c61742d737175617265266c6f676f3d53716c416c6368656d79">
-  <img src="https://camo.githubusercontent.com/e81292e1ecd7af339d5f3e681ce57064d78cb3e5ce6ae78251644c02c525e281/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d466173744150492d2532333030433742373f7374796c653d666c61742d737175617265266c6f676f3d46617374415049">
-</div>
-
-
+**Learning**
+![С#](https://img.shields.io/badge/-%D0%A1Sharp-1d72b1?style=flat-square&logo=csharp)
 
 ## Stats
 [![Noir_Egoiste GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NoirEgoiste&theme=nightowl)](https://git.io/streak-stats)
